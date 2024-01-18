@@ -1,0 +1,10 @@
+.options {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.opt {
+    height: 30px;
+    width: 830px;
+    
+}

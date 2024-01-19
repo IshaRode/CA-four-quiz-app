@@ -1,4 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad&family=DM+Sans:opsz@9..40&family=IBM+Plex+Sans:ital,wght@1,600&family=Josefin+Sans&family=Poppins&family=Varela+Round&display=swap');
+
 .result-box {
-    margin-top: 100px;
+    margin-top: 150px;
+    border: 10px solid black;
+    border-radius: 22px;
+    width: 380px;
+    height:220px;
+    margin-left: 440px;
+    background-color: rgba(255, 255, 255, 0.3) ;
+    font-family: 'Josefin Sans';
+}
+
+.out-of {
+    color: black;
+    font-size: 30px;
+}
+.play-again {
+ padding: 10px;
+ font-family: 'Josefin Sans';
+ font-size: 20px;
 }
 

@@ -3,6 +3,9 @@
     margin: 0 auto;
     padding: 2rem;
     text-align: center;
-    background-color: #ffffff;
+
   }
   
+body {
+  background-color: rgb(167, 240, 218);
+}

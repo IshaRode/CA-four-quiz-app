@@ -1,16 +1,18 @@
-@import url("https://fonts.googleapis.com/css2?family=Afacad&family=Black+Ops+One&family=DM+Sans:opsz@9..40&family=IBM+Plex+Sans:ital,wght@1,600&family=Josefin+Sans&family=Pacifico&family=Poppins&family=Varela+Round&display=swap");
+
+@import url('https://fonts.googleapis.com/css2?family=Afacad&family=Black+Ops+One&family=DM+Sans:opsz@9..40&family=IBM+Plex+Sans:ital,wght@1,600&family=Josefin+Sans&family=Pacifico&family=Poppins&family=Varela+Round&display=swap');
 
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
-}
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
 
+  }
+  
 body {
-  background-color: rgb(167, 240, 218);
+  background-color: #a3d3ee;
 }
 
 .queezify {
-  font-family: "Pacifico";
+ font-family: 'Pacifico';
 }
